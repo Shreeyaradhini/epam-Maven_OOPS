@@ -1,4 +1,4 @@
-package com.epam.rahulghosh_maven_OOPS.sweets;
+package com.epam.maven_OOPS.sweets;
 
 public class Kajukatli extends Sweets {
 

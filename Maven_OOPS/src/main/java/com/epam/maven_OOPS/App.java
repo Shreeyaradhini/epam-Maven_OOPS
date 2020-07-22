@@ -1,14 +1,14 @@
-package com.epam.rahulghosh_maven_OOPS;
-import com.epam.rahulghosh_maven_OOPS.chocolates.Chocolate;
-import com.epam.rahulghosh_maven_OOPS.chocolates.Cadbury;
-import com.epam.rahulghosh_maven_OOPS.chocolates.Barone;
-import com.epam.rahulghosh_maven_OOPS.chocolates.Galaxy;
-import com.epam.rahulghosh_maven_OOPS.gift.Gift;
-import com.epam.rahulghosh_maven_OOPS.sweets.Sweets;
-import com.epam.rahulghosh_maven_OOPS.sweets.Gulabjamun;
-import com.epam.rahulghosh_maven_OOPS.sweets.Kheer;
-import com.epam.rahulghosh_maven_OOPS.sweets.Kajukatli;
-import com.epam.rahulghosh_maven_OOPS.sweets.Rasgulla;
+package com.epam.maven_OOPS;
+import com.epam.maven_OOPS.chocolates.Chocolate;
+import com.epam.maven_OOPS.chocolates.Cadbury;
+import com.epam.maven_OOPS.chocolates.Barone;
+import com.epam.maven_OOPS.chocolates.Galaxy;
+import com.epam.maven_OOPS.gift.Gift;
+import com.epam.maven_OOPS.sweets.Sweets;
+import com.epam.maven_OOPS.sweets.Gulabjamun;
+import com.epam.maven_OOPS.sweets.Kheer;
+import com.epam.maven_OOPS.sweets.Kajukatli;
+import com.epam.maven_OOPS.sweets.Rasgulla;
 
 import java.util.ArrayList;
 import java.util.Scanner;

@@ -1,6 +1,6 @@
-package com.epam.rahulghosh_maven_OOPS.sweets;
+package com.epam.maven_OOPS.sweets;
 
-import com.epam.rahulghosh_maven_OOPS.sweets.Sweets;
+import com.epam.maven_OOPS.sweets.Sweets;
 
 public class Sweets implements Comparable<Sweets>  {
 	

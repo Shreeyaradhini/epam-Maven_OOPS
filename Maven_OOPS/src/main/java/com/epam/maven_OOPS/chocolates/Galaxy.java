@@ -1,4 +1,4 @@
-package com.epam.rahulghosh_maven_OOPS.chocolates;
+package com.epam.maven_OOPS.chocolates;
 
 public class Galaxy extends Chocolate {
 

@@ -1,6 +1,6 @@
-package com.epam.rahulghosh_maven_OOPS.gift;
-import com.epam.rahulghosh_maven_OOPS.chocolates.Chocolate;
-import com.epam.rahulghosh_maven_OOPS.sweets.Sweets;
+package com.epam.maven_OOPS.gift;
+import com.epam.maven_OOPS.chocolates.Chocolate;
+import com.epam.maven_OOPS.sweets.Sweets;
 
 import java.util.ArrayList;
 import java.util.Arrays;
